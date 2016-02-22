@@ -8,7 +8,11 @@ Maintainers:
 Developer setup info:
 ---------------------
 ### Installation:
-Just clone this repo into one of your apps directory.
+* Clone this repo into one of your apps directory.
+* If not already done enable the app with the following command:
+```code
+php occ app:listphp occ app:enable bookmarks
+```
 
 
 Status :
